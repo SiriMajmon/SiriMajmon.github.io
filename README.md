@@ -1,2 +1,3 @@
 # SiriMajmon.github.io
-שירים שלי
+אלה שירים שלי.‏
+ראה http://SiriMajmon.github.io/שירים/ !
